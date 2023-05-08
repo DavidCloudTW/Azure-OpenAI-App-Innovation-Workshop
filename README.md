@@ -11,17 +11,17 @@
 
 如圖所示，該架構利用靈活的語義計算引擎作為提示引擎，支持各種部署形式，例如PaaS、無伺服器和容器，使開發人員可以根據實時業務需求優化提示引擎並彈性擴展計算資源。基於Redis和CosmosDB的會話和令牌數據服務層為應用程序添加了上下文緩存、會話持久性、提示持久性等能力，為基於提示的模型或引擎優化留下了空間。前端的API封裝、負載均衡和網關進一步增強了應用的安全性和可靠性，使智能實體可以以更安全、更穩定的方式與各種前端應用集成。最重要的是，該架構基於Azure Cognitive Search和向量嵌入兩種附加的私有知識庫技術設計了雙引擎架構。一方面，Azure Cognitive Search可以快速索引PDF和WORD文件等非結構化數據，使現有數據可以立即使用。另一方面，通過利用帶有向量存儲和處理功能的Azure數據庫，並將其與Azure OpenAI的嵌入向量生成模型結合，企業現有的結構化知識庫可以輕松集成，從而從尖端GPT模型中產生更準確、更穩定、更可靠的結果。
 
-## Semantic Kernel - LLM AI Dev Framework / SDK
+## 語義內核 - LLM AI Dev框架/SDK
 
-Semantic Kernel (SK) is a lightweight SDK enabling integration of AI Large Language Models (LLMs) with conventional programming languages. The SK extensible programming model combines natural language semantic functions, traditional code native functions, and embeddings-based memory unlocking new potential and adding value to applications with AI.
+語義內核（SK）是一個輕量級的SDK，可以將AI大型語言模型（LLM）與傳統編程語言集成。SK可擴展的編程模型結合了自然語言語義功能、傳統代碼本地功能和基於嵌入的記憶體解鎖，為應用程序添加了AI的新潛力和價值。
 
-SK supports prompt templating, function chaining, vectorized memory, and intelligent planning capabilities out of the box.
+SK支持提示模板化、功能鏈接、向量化記憶體和智能規劃能力。
 
  ![Semantic Kernel](./media/ks.png)
 
-Semantic Kernel is designed to support and encapsulate several design patterns from the latest in AI research, such that developers can infuse their applications with complex skills like prompt chaining, recursive reasoning, summarization, zero/few-shot learning, contextual memory, long-term memory, embeddings, semantic indexing, planning, and accessing external knowledge stores as well as your own data.
+語義內核旨在支持和封裝最新的人工智能研究中的多種設計模式，開發人員可以將複雜的技能，如提示鏈接、遞歸推理、摘要、零/少樣本學習、上下文記憶、長期記憶、嵌入、語義索引、規劃和訪問外部知識庫以及您自己的數據，融入到他們的應用程序中。
 
-For more information, please visit [Semantic Kernel Project](https://github.com/microsoft/semantic-kernel)
+如需更多信息，請訪問 [語義內核項目](https://github.com/microsoft/semantic-kernel)
 
 ## Azure GPT App Innovation Workshop 
 
