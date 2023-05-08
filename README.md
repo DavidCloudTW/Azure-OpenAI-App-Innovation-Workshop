@@ -23,16 +23,16 @@ SK支持提示模板化、功能鏈接、向量化記憶體和智能規劃能力
 
 如需更多信息，請訪問 [語義內核項目](https://github.com/microsoft/semantic-kernel)
 
-## Azure GPT App Innovation Workshop 
+## Azure GPT App 創新工作坊 
 
-This is an app innovation workshop focused on exploring the use of Azure PaaS and OpenAI GPT model to build modern large language modelintelligent applications. Workshop aims to provide practical skills and experience in developing innovative intelligent applications on Azure for IT and architecture decision-makers, business decision-makers, and developers.
+這是一個專注於探索使用 Azure PaaS 和 OpenAI GPT 模型來建立現代大型語言模型智能應用的應用創新工作坊。本工作坊旨在為 IT 和架構決策者、業務決策者和開發人員提供開發創新智能應用在 Azure 上的實踐技能和經驗。
 
-In this workshop, attendees will learn how to select Azure workloads to design a modern GPT intelligent application, understand Azure OpenAI services, explore the capabilities of large model prompt engineering, understand common parameters and options in the OpenAI API, and land an next generation GPT intelligent application architecture inside their organization through hands-on experimentation.
+在本工作坊中，參加者將學習如何選擇 Azure 工作負載以設計現代 GPT 智能應用，了解 Azure OpenAI 服務，探索大型模型提示工程的能力，了解 OpenAI API 中的常見參數和選項，並通過實踐實驗在其組織內實現下一代 GPT 智能應用架構。
 
-Whether you are a novice or an experienced professional, this workshop will meet the expectations and needs of participants. Attendees will be able to interact with experts, share experiences, and gain inspiration and insights from real project cases. Together, we will explore exciting GPT intelligent applications and usher in a new era of intelligent applications!
+無論您是新手還是經驗豐富的專業人士，本工作坊都將滿足參與者的期望和需求。參加者將能夠與專家互動、分享經驗，並從真實項目案例中獲得啟發和見解。讓我們一起探索令人興奮的 GPT 智能應用，迎接智能應用的新時代！
 
-- Workshop content [Chinese](./Workshop%20Content%20CHS/)
-- Workshop content [English](./Workshop%20Content%20EN/)
+- 工作坊內容 [中文](./Workshop%20Content%20CHS/)
+- 工作坊內容 [English](./Workshop%20Content%20EN/)
 - [Demo notebook](./Demo%20Notebook/)
 - [Source code](./Source%20Code/)
 - [Hands on lab manual](./Hands%20on%20lab%20manual/)
